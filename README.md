@@ -1,4 +1,8 @@
-## Hi there 👋
+ Hi 👋 I'm Rashmika Guruge
+
+ 💫 About me : 
+     Undergraduate at University of Colombo School of Computing and passionate about software development and innovation, I'm committed to continuous learning and creating solutions that stand out in the tech world.
+ 
 
 <!--
 **RashmikaGuruge/RashmikaGuruge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
