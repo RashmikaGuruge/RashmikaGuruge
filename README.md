@@ -2,6 +2,8 @@
 <h3 align="left">💫 About me : </h3>
 <p align="left">Undergraduate at the University of Colombo School of Computing and passionate about software development and innovation, I'm committed to continuous learning and creating solutions that stand out in the tech world.</p>
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rashmika-guruge-54a77622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmika-guruge-54a77622a" height="30" width="40" /></a>
