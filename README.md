@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmika Guruge</h1>
-<h3 align="center">💫 About me : Undergraduate at the University of Colombo School of Computing and passionate about software development and innovation, I'm committed to continuous learning and creating solutions that stand out in the tech world.</h3>
+<h3 align="left">💫 About me : </h3>
+<p align="left">Undergraduate at the University of Colombo School of Computing and passionate about software development and innovation, I'm committed to continuous learning and creating solutions that stand out in the tech world.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
