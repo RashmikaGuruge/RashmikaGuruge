@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashmika Guruge</h1>
-<h3 align="center">Computer Science Undergraduate at UCSC | Full Stack Developer.⭐</h3>
+<h3 align="center">Software Engineering Intern | Computer Science Undergraduate at UCSC ⭐</h3>
 
 <br>
 
